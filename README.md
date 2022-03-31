@@ -26,7 +26,7 @@ $ git commit -m 'this will solve the bug'
 
 output: `bug(JIRA-999): this will solve the bug`
 
-If you prefer to go the vim way:
+If you prefer to go the vim way: \
 Branch name: `bug/JIRA-999/sentry-crazy-bug`
 
 ```
