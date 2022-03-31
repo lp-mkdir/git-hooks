@@ -5,7 +5,7 @@
 Git definition:
 The prepare-commit-msg hook is run before the commit message editor is fired up but after the default message is created. It lets you edit the default message before the commit author sees it. [Continue reading...](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
-We are now taking this hook to automate the tedious task of writing all the time the same repetition tasks `type(TICKET-999): finally writing my commit` and instead read it from the branch directly.
+We are now taking this hook to automate the tedious task of writing all the time the same types and issue number `type(TICKET-999): finally writing my commit` and instead read it from the branch directly.
 
 Usage:
 Branch name: `bug/JIRA-999/sentry-crazy-bug`
