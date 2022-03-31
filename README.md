@@ -9,7 +9,11 @@ We are now taking this hook to automate the tedious task of writing all the time
 
 Usage:
 Branch name: `bug/JIRA-999/sentry-crazy-bug` \
-`$ git commit -m 'this will solve the bug'` \
+
+```
+$ git commit -m 'this will solve the bug'
+```
+
 output: `bug(JIRA-999): this will solve the bug`
 
 If you prefer to go the vim way:
