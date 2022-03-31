@@ -17,7 +17,6 @@ And this is everything, this folder is ignored by default, this behaviour is int
 
 We are now taking this hook to automate the tedious task of writing all the time the same types and issue number `type(TICKET-999): finally writing my commit` and instead read it from the branch directly.
 
-Usage:
 Branch name: `bug/JIRA-999/sentry-crazy-bug`
 
 ```
